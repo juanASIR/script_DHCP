@@ -1,2 +1,3 @@
 # script_DHCP
-Script para la instalación de dhcp en una MV
+Script para la instalación de dhcp en una MV.
+
