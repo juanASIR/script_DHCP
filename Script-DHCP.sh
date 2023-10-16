@@ -1,5 +1,6 @@
 #!/bin/bash
-
+set -x
+ 
 # Actualizar la lista de paquetes disponibles
 sudo apt update
 
