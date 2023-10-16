@@ -2,8 +2,13 @@
 Script para la instalación de dhcp en una MV.
 
 ## **Requisitos**
+
 - [Debian 12 bookworm](https://cdimage.debian.org/debian-cd/current/amd64/iso-cd/debian-12.2.0-amd64-netinst.iso)
 - [VirtualBox 7.0](https://www.virtualbox.org/)
+
+## **Antes de la instalción
+
+1. Copiar el script
 
 ## **Instalación**
   
