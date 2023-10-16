@@ -7,5 +7,5 @@ Script para la instalación de dhcp en una MV.
 
 ## **Instalación**
   
-- [Script DHCP](Script-DHCP.sh.txt)
+- [Script DHCP](Script-DHCP.sh)
 - [PDF paso a paso](Script-DHCP.pdf)
