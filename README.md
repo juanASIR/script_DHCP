@@ -13,6 +13,7 @@ Script para la instalación de dhcp en una MV.
 3. Comprobar que los nombres de las tarjetas de red son iguales (Al ser MV debian es ella quien te da los nombres, y suelen ser los mismos).
 4. Antes de ejecutar el script entrar como root.
 5. Para ejecutar el script entrar previamente en la ruta donde se encuentre.
+6. Los cambios y modificaciones del script están en esta página, no en el pdf.
 
 ## **Instalación**
   
