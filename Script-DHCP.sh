@@ -77,5 +77,8 @@ EOF'
 # Reiniciar el servicio networking
 sudo systemctl restart networking
 
+# Reiniciar el servicio dhcp
+sudo systemctl restart isc-dhcp-server
+
 # Mostrar un mensaje de finalización
 echo "Actualización de paquetes y configuración completada, networking reiniciado."
