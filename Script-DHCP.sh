@@ -10,6 +10,10 @@ sudo apt upgrade -y
 # Instalar el servicio isc-dhcp-server
 sudo apt install isc-dhcp-server -y
 
+# Deshabilitar NetworkManager
+sudo systemctl stop NetworkManager
+sudo systemctl disable NetworkManager
+
 # Cambiar la configuración en /etc/default/isc-dhcp-server
 sudo bash -c 'cat << EOF > /etc/default/isc-dhcp-server
 # On what interfaces should the DHCP server (dhcpd) serve DHCP requests?
